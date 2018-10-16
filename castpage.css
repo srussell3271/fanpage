@@ -1,0 +1,72 @@
+html{
+    background-color:black;
+    border-collapse: separate;
+    border-spacing: 15px;}
+
+img{
+    border:2px solid;
+    height:150px;
+}
+
+h1{
+    font-size:50px;
+    font-style:italic;
+    color:yellow;
+}
+h2{
+    font-size:25px;
+    color:lightBlue;
+}
+.joe{
+    font-size:20px;
+    font-style:italic;
+    font-weight:bold; 
+    text-align:center;
+    border:15px double;
+    font-family: 'Clicker Script', cursive;
+    color:teal;
+}
+#joeImage{
+    border-radius: 750px;
+}
+
+#joe{
+    color:salmon;
+}
+.sal{
+    text-align: right;
+    border:#99a8ff dashed 5px;
+cc    color:#99ffff;
+}
+#sal{
+    color:lightGreen;
+}
+#salImage{
+    border-radius: 5000px;
+}
+.murr{
+    text-align: right;
+    border:ridge #f1a0f7 10px;
+    font-family: 'Lily Script One', cursive;
+    color:white;
+}
+#murr{
+    color:#fbccff;
+}
+#murrImage{
+    border-radius: 750px;
+
+}
+.quinn{
+    text-align: left;
+    border:#abff82 10px dotted;
+    font-family: 'League Script', cursive;
+    font-weight:bold; 
+    color:pink;
+}
+#quinn{
+    color:#42f4f4;
+}
+#quinnImage{
+    border-radius:150px;
+}

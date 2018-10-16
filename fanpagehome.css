@@ -1,0 +1,68 @@
+body{
+  background-color:black;
+}
+
+#warning{
+    color:red;
+    font-size:30px;
+}
+.introduction{
+    color:#01EAE6;
+    /*background-color: rgb(234,188,1);*/
+    font-size:16px;
+}
+
+.cast{
+    color:salmon;
+    font-size:14px;
+    text-align: center;
+    list-style-position: inside;
+
+
+}
+#cast{
+    font-size:18px;
+}
+
+.reason{
+    color:lightGreen;
+    font-size:14px;
+    border:dashed pink 2px;
+    padding:5px;
+}
+.reasons{
+    font-family: 'Lily Script One', cursive;
+    color:pink;
+  
+}
+.hope{
+    display:flex;
+    color:white;
+}
+#meaning{
+    color:white;
+}
+#friendship{
+    font-size:18px;
+
+}
+#happiness{
+    font-size:18px;
+
+}
+
+#style{
+    font-size:18px;
+
+}
+h5{
+    color:lightBlue;
+    font-weight:;
+    font-size:26px;
+    width:45%;
+    height:100px;
+}
+ul{
+    font-size:26px;
+    font-family: 'Rouge Script', cursive;
+}
