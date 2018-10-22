@@ -59,64 +59,18 @@ body{
   background-color:#a6d6f6;
   color: black;
 }
-.introduction{
-    color:#01EAE6;
+.about{
+    font-family: 'Charmonman', cursive;
     font-size:16px;
+    color:white;
 }
-#warning{
-    color:red;
-    font-size:30px;
-}
-.cast{
-    color:salmon;
-    font-size:14px;
-    text-align: center;
-    list-style-position: inside;
-}
-
-.reasons{
-    color:lightGreen;
-    font-size:14px;
-    border:dashed pink 2px;
-    padding:5px;
-}
-.reason{
-    font-family: 'Lily Script One', cursive;
+.reviews{
+    font-family: 'Dancing Script';
     color:pink;
-  
-}
-#friendship{
-    font-size:18px;
-}
-#happiness{
-    font-size:18px;
-}
-#style{
-    font-size:18px;
-}
-.hope{
-    display:flex;
-    color:white;
-}
-h5{
-    color:lightBlue;
-    font-weight:;
-    font-size:26px;
-    width:45%;
-    height:100px;
-}
-#meaning{
-    font-family: 'Rouge Script';
-    font-size:24px;
-    color:white;
-}
-ul{
-    font-size:26px;
-    font-family: 'Rouge Script', cursive;
 }
 .footer{
     background:rgb(123,145,167);
-    /*position: fixed;*/
+    position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
