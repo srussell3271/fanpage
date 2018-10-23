@@ -1,5 +1,6 @@
 body{
-  background-color:black;
+    /*margin:10px;*/
+    background-color:black;
 }
 .header{
     position: -webkit-sticky;
@@ -58,6 +59,12 @@ body{
 .header a:hover {
   background-color:#a6d6f6;
   color: black;
+}
+.headers{
+    color:salmon;
+    font-size:30px;
+    display:flex;
+    justify-content:center;
 }
 .introduction{
     color:#01EAE6;
@@ -122,4 +129,9 @@ ul{
     width: 100%;
     color: white;
     text-align: right;
+}
+.casting{
+    font-size:30px;
+    font-family: 'Rouge Script', cursive;
+    
 }

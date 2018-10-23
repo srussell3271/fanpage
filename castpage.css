@@ -24,6 +24,10 @@ h2{
     padding: 5px;
     background-color: #cae8ca;
 }
+.header a:hover {
+  background-color:#a6d6f6;
+  color: black;
+}
 #header{
     display:flex;
     justify-content:space-around;
